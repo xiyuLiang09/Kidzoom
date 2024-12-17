@@ -1,0 +1,10 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: D:/JetBrains/PyCharm_2023.1.1/Project/yolov7-main/datasets/dangerous_item/images/train  # 118287 images
+val: D:/JetBrains/PyCharm_2023.1.1/Project/yolov7-main/datasets/dangerous_item/images/val  # 5000 images
+test: D:/JetBrains/PyCharm_2023.1.1/Project/yolov7-main/datasets/dangerous_item/images/test  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# number of classes
+nc: 2
+
+# class names
+names: [ 'cup' , 'scissors' ]
