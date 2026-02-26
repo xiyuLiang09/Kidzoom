@@ -6,7 +6,7 @@ Intelligent Child Home Monitoring System based on YOLO and Pose Recognition Mode
 
 ## 🎬 Demo
 
-![Demo](https://github.com/xiyuLiang09/Kidzoom/tree/main/demo/demo.mp4)
+![demo](https://github.com/user-attachments/assets/4bd9bcfb-0951-472c-b2bd-2ba6e10b48e1)
 
 ## 🎯 Key Features
 - 🔥**Hazardous Object Detection**: Identifies dangerous items such as flames, scissors, and glass cups in the scene and sends alerts.
