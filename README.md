@@ -17,6 +17,6 @@ https://github.com/user-attachments/assets/4bd9bcfb-0951-472c-b2bd-2ba6e10b48e1
 - 🕜**Real-Time Monitoring**: Ensures continuous surveillance and accurate hazard recognition.  
 
 ## 💪 Core Algorithms
-- ![**YOLOv7**](https://github.com/WongKinYiu/yolov7): Trained on a large, self-collected dataset of hazardous objects to improve the model's accuracy in recognizing these items. 
-- ![**PP-TinyPose**](https://github.com/BaiShiqing/PaddleDetection_bsq/blob/release/2.4/configs/keypoint/tiny_pose): A lightweight and efficient pose estimation model, trained by us to detect window-climbing postures in real-time video streams.
-- ![**SE-Net**](https://github.com/hujie-frank/SENet): Considering the small spatial proportion of hazardous objects in real-world surveillance videos, this attention module is integrated into the YOLOv7 architecture to enhance the model's accuracy in detecting small objects.
+- [**YOLOv7**](https://github.com/WongKinYiu/yolov7): Trained on a large, self-collected dataset of hazardous objects to improve the model's accuracy in recognizing these items. 
+- [**PP-TinyPose**](https://github.com/BaiShiqing/PaddleDetection_bsq/blob/release/2.4/configs/keypoint/tiny_pose): A lightweight and efficient pose estimation model, trained by us to detect window-climbing postures in real-time video streams.
+- [**SE-Net**](https://github.com/hujie-frank/SENet): Considering the small spatial proportion of hazardous objects in real-world surveillance videos, this attention module is integrated into the YOLOv7 architecture to enhance the model's accuracy in detecting small objects.
